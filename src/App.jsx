@@ -7,6 +7,5 @@ const App = () => {
     3D Developer Portfolio
    </div>
   )
-}
 
 export default App
